@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" version="24.7.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.0" pages="2">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="954" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1578" dy="2020" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -447,7 +447,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rB9ftDhSS0XkmUO5lZ0u-2326" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="b3rS-Hu6BE8r07adPLv_-2257" target="rB9ftDhSS0XkmUO5lZ0u-2257" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2440" y="1432" />
+              <mxPoint x="2440" y="2822" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="rB9ftDhSS0XkmUO5lZ0u-2327" value="192.168.4.1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rB9ftDhSS0XkmUO5lZ0u-2326" connectable="0" vertex="1">
           <mxGeometry x="-0.9565" y="-8" relative="1" as="geometry">
@@ -1782,6 +1787,14 @@
         <mxCell id="WMkOC73Qj5dQecAfF1_Z-2230" value="192.168.6.59&lt;br&gt;Entrada COS" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="3475" y="3730" width="100" height="80" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="cewakQ-ey5dchADTGWmj" name="Página-2">
+    <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
